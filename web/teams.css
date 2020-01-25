@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size:40px;
+    font-family: georgia;
+}
+
+body {
+    background-image: url(https://wallpapercave.com/wp/xDRd0U2.jpg);
+    background-size: cover;
+    font-weight: bold;
+    font-family: georgia;
+    color: white;
+}
+
+.searchForm {
+    text-align: center;
+    margin-top: 2%
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: gray;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4px 100px;
+    text-decoration: none;
+    font-size: 17px
+}
+
+li a:hover {
+    background-color: darkgray;
+    color: black;
+}
+
+.active {
+    background-color: darkgray;
+    color: white;
+}
+
+.returnButton {
+    text-align:center;
+    text-decoration:none;
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 27, 2019, 12:32:59 AM
+    Author     : grandaja
+*/
